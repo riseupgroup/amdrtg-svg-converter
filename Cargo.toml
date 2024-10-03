@@ -1,0 +1,8 @@
+[package]
+name = "amdrtg-svg-converter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+html-escape = "0.2.13"
+svg = "0.17.0"
